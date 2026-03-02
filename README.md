@@ -1,51 +1,59 @@
-### Привет, я Залина 👋
+<h1 align="center">Hi, I'm Zalina 👋</h1>
 
-💻 Студентка 3 курса колледжа КЭСИ  
-
----
-
-### 🛠️ Мои навыки и интересы
-
-**Backend**  
-🐍 Python (Django, DRF)  
-🗄️ PostgreSQL, Redis  
-🔄 Celery, Docker  
-
-**Frontend / UI/UX**  
-⚛️ React  
-🎨 Figma, Photoshop, графический планшет  
-📐 Draw.io (схемы, ER-диаграммы)  
-
-**Инструменты и окружение**  
-🐧 Kali Linux (осваиваю)  
-⚙️ Git, GitHub, GitHub Actions  
-🖥️ Сборка и апгрейд ПК  
-
-**Сейчас изучаю**  
-🌐 HTML/CSS, JavaScript  
+<p align="center">
+Backend Developer | Django & PostgreSQL | DevOps Enthusiast
+</p>
 
 ---
 
-### 📌 Проекты (учебные, но сделаны с душой)
+## 🧠 About Me
 
-🔹 **[Task Manager](#)** — веб-приложение «Менеджер задач»  
-   *Django, DRF, React, PostgreSQL, Redis, Celery, Docker, CI/CD*  
-   CRUD для проектов и задач, фильтрация, статистика, фоновые уведомления.
+🎓 3rd year student – Information Systems and Programming  
+💻 Focused on Backend Development  
+⚙️ Interested in DevOps & System Architecture  
+📚 Currently improving Linux and backend fundamentals  
 
-🔹 **[Fitness Tracker](#)** — клиент-серверное приложение для учёта тренировок  
-   *Django, DRF, Tkinter, PostgreSQL*  
-   Учёт подходов, расчёт 1RM, анализ прогресса, графики.
-
-🔹 *(здесь появятся новые проекты)*
+I build client-server applications, design databases, and develop REST APIs using Django and PostgreSQL.
 
 ---
 
-### 📫 Как со мной связаться
+## 🛠 Tech Stack
 
-✉️ [Email](mailto:твой-email@example.com)  
-💬 [Telem](https://t.me/твой_username)  
-👩‍🎓 [Колледж КЭСИ](https://kesi.ru/)  
+**Backend**
+- Python
+- Django
+- Django REST Framework
+
+**Databases**
+- PostgreSQL
+- Microsoft SQL Server
+
+**Tools**
+- Git
+- VS Code
+- PyCharm
+- SSMS
+- draw.io
 
 ---
 
-⭐ *Все проекты открыты — заглядывайте, буду рада обратной связи!*
+## 🚀 Current Focus
+
+- Writing clean backend architecture  
+- Improving API design  
+- Learning more about Linux & deployment  
+- Preparing projects for production-ready level  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zalina-devops&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+Soon...

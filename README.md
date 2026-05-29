@@ -1,34 +1,31 @@
-<h1 align="center">Hi, I'm Zalina 👋</h1>
-
+<h1 align="center">Привет, я Залина 👋</h1>
 <p align="center">
-Backend Developer | Django & PostgreSQL | DevOps Enthusiast
+Backend-разработчик | Django & PostgreSQL | DevOps-энтузиаст
 </p>
 
----
+## 🧠 Обо мне
 
-## 🧠 About Me
+🎓 Студентка 3-го курса — Информационные системы и программирование  
+💻 Специализируюсь на Backend-разработке  
+⚙️ Интересуюсь DevOps и системной архитектурой  
+📚 Сейчас углубляю знания Linux и основ backend-разработки  
 
-🎓 3rd year student – Information Systems and Programming  
-💻 Focused on Backend Development  
-⚙️ Interested in DevOps & System Architecture  
-📚 Currently improving Linux and backend fundamentals  
-
-I build client-server applications, design databases, and develop REST APIs using Django and PostgreSQL.
+Создаю клиент-серверные приложения, проектирую базы данных и разрабатываю REST API с помощью Django и PostgreSQL.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Технологический стек
 
 **Backend**
 - Python
 - Django
 - Django REST Framework
 
-**Databases**
+**Базы данных**
 - PostgreSQL
 - Microsoft SQL Server
 
-**Tools**
+**Инструменты**
 - Git
 - VS Code
 - PyCharm
@@ -37,16 +34,16 @@ I build client-server applications, design databases, and develop REST APIs usin
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Текущие приоритеты
 
-- Writing clean backend architecture  
-- Improving API design  
-- Learning more about Linux & deployment  
-- Preparing projects for production-ready level  
+- Разработка чистой и масштабируемой backend-архитектуры
+- Улучшение дизайна API
+- Глубокое изучение Linux и процессов развёртывания
+- Подготовка проектов до production-ready уровня
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Статистика GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zalina-devops&show_icons=true&theme=tokyonight" />
@@ -54,6 +51,6 @@ I build client-server applications, design databases, and develop REST APIs usin
 
 ---
 
-## 📫 Contact
+## 📫 Контакты
 
-Soon...
+Скоро...

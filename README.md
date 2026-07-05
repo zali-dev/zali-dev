@@ -4,9 +4,10 @@
 
 ### Backend-разработчик • Python • Django • PostgreSQL
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Разрабатываю+REST+API;Проектирую+базы+данных;Изучаю+Linux+и+Docker;Интересуюсь+DevOps;Всегда+учусь+новому"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Разрабатываю+REST+API;Проектирую+базы+данных;Изучаю+Linux+и+Docker;Осваиваю+CI%2FCD+и+DevOps;Люблю+решать+сложные+задачи" />
 
 </div>
+
 ---
 
 # 👩‍💻 Обо мне
@@ -75,7 +76,19 @@
 
 </div>
 
+<h2 align="center">🏆 Достижения</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zali-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
+</p>
+
 ---
+
+# 🐍 Активность
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zali-dev/zali-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 # 📫 Контакты
 

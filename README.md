@@ -4,11 +4,14 @@
 
 ### Backend-разработчик • Python • Django • PostgreSQL
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Разрабатываю+REST+API;Проектирую+базы+данных;Изучаю+Linux+и+Docker;Осваиваю+CI%2FCD+и+DevOps;Люблю+решать+сложные+задачи" />
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Разрабатываю+REST+API;Проектирую+базы+данных;Изучаю+Linux+и+Docker;Осваиваю+CI%2FCD+и+DevOps;Люблю+решать+сложные+задачи)](https://git.io/typing-svg)
+
+</p>
 
 </div>
 
----
 
 # 👩‍💻 Обо мне
 

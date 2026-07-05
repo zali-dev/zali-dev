@@ -79,6 +79,12 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=zali-dev&style=flat-square&color=7C3AED"/>
+# 📫 Контакты
 
-</div>
+<div align="center">
+
+<a href="mailto:z_cesi@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+
+<a href="https://github.com/zali-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+

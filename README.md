@@ -7,10 +7,6 @@
 Создаю надёжные backend-приложения, проектирую REST API и постепенно углубляюсь в DevOps, Linux и инфраструктуру.
 
 <br>
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zalina_devops)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zali-dev)
-
 </div>
 
 ---
@@ -134,14 +130,6 @@
 ---
 
 ## 📊 GitHub
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zali-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zali-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 

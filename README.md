@@ -1,34 +1,28 @@
 <div align="center">
 
-# 👋 Привет, я Залина
-
-### Backend-разработчик • Python • Django • PostgreSQL
-
-<p align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Разрабатываю+REST+API;Проектирую+базы+данных;Изучаю+Linux+и+Docker;Осваиваю+CI%2FCD+и+DevOps;Люблю+решать+сложные+задачи)](https://git.io/typing-svg)
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:7C3AED,50:8B5CF6,100:A855F7&text=Zalina&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%7C%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E%20%D0%B8%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B5%20backend-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F&descAlignY=60&descSize=18"/>
 
 </div>
 
+---
 
-# 👩‍💻 Обо мне
 
-Я студентка направления **«Информационные системы и программирование»** и Backend‑разработчик.
+## 👩‍💻 Обо мне
 
-Люблю проектировать архитектуру приложений, создавать REST API, работать с PostgreSQL и постепенно углубляюсь в Linux, Docker и CI/CD.
+Я студентка **3 курса** по специальности **«Информационные системы и программирование»** и backend-разработчик, которому интересно не только писать код, но и понимать, как устроены современные серверные приложения "под капотом".
+
+Мне нравится проектировать архитектуру приложений, работать с базами данных и создавать REST API, которые легко поддерживать и расширять. Сейчас активно изучаю **Linux**, **Docker**, **GitHub Actions** и процессы **CI/CD**, постепенно приближая свои проекты к production-ready уровню.
 
 ---
 
-# 🚀 Избранные проекты
+## 🚀 Избранные проекты
 
 | Проект | Описание |
 |--------|----------|
-| 🤖 **VacBot** | AI‑платформа для поиска работы, Telegram‑бот, парсер вакансий, Docker, GitHub Actions, PostgreSQL. |
-| 💻 **Portfolio** | Интерактивное терминальное портфолио на React + Vite. |
-| 💰 **Personal Finance Client‑Server** | Клиент‑серверное приложение для учёта личных финансов. |
-| 🍲 **Recipe App** | Backend на Django REST Framework для работы с рецептами. |
+| 🤖 **VacBot** | AI-платформа для поиска работы с парсером вакансий, Telegram-ботом, системой управления откликами, генерацией сопроводительных писем и автоматизированным CI/CD-пайплайном. |
+| 💻 **Portfolio** | Интерактивное портфолио в стиле терминала с эффектом печати, Matrix Rain, мини-игрой и современным интерфейсом на React. |
+| 💰 **Personal Finance Client-Server** | Клиент-серверное приложение для учёта личных финансов с авторизацией пользователей, хранением данных и работой с базой данных. |
+| 🍲 **Recipe App** | Backend-приложение на Django REST Framework для управления рецептами с REST API, сериализацией данных и PostgreSQL. |
 
 ---
 
@@ -79,13 +73,10 @@
 
 </div>
 
-<h2 align="center">🏆 Достижения</h2>
-
+<br><br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zali-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zali-dev&theme=tokyonight"/>
 </p>
-
----
 
 # 🐍 Активность
 
@@ -95,10 +86,18 @@
 
 # 📫 Контакты
 
-<div align="center">
+<p align="center">
 
-<a href="mailto:z_cesi@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>
+<a href="mailto:z_cesi@outlook.com">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
 
-<a href="https://github.com/zali-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/zali-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+</p>
 
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=160&section=footer&color=0:7C3AED,50:8B5CF6,100:A855F7"/>
+</p>

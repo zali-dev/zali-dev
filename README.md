@@ -1,13 +1,6 @@
-<div align="center">
-<img src="assets/banner.svg" width="100%" alt="banner"/>
-
-# 👋 Привет, я Залина
-
-### Backend-разработчик • Python • Django • PostgreSQL
-
-Создаю надёжные backend‑приложения, проектирую REST API и изучаю DevOps.
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Привет%2C+я+Залина+%F0%9F%91%8B;Backend-разработчик;Python+%E2%80%A2+Django+%E2%80%A2+PostgreSQL;Изучаю+Linux%2C+Docker+и+DevOps;Люблю+создавать+надёжные+backend-сервисы" />
+</p>
 
 ---
 

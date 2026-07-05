@@ -1,126 +1,66 @@
 <div align="center">
+<img src="assets/banner.svg" width="100%" alt="banner"/>
 
 # 👋 Привет, я Залина
 
 ### Backend-разработчик • Python • Django • PostgreSQL
 
-Создаю надёжные backend-приложения, проектирую REST API и постепенно углубляюсь в DevOps, Linux и инфраструктуру.
+Создаю надёжные backend‑приложения, проектирую REST API и изучаю DevOps.
 
-<br>
 </div>
 
 ---
 
-## 👩‍💻 Обо мне
+# 👩‍💻 Обо мне
 
-Я студентка направления **«Информационные системы и программирование»** и Backend-разработчик.
+Я студентка направления **«Информационные системы и программирование»** и Backend‑разработчик.
 
-Больше всего мне нравится создавать серверные приложения: проектировать архитектуру, продумывать базы данных и писать REST API, которые легко поддерживать и масштабировать.
-
-Сейчас активно изучаю **Linux**, **Docker**, **CI/CD** и современные практики развёртывания приложений.
+Люблю проектировать архитектуру приложений, создавать REST API, работать с PostgreSQL и постепенно углубляюсь в Linux, Docker и CI/CD.
 
 ---
 
-# 🚀 Проекты
+# 🚀 Избранные проекты
 
-### 🤖 VacBot
-
-> AI-платформа для поиска работы и управления откликами.
-
-**Основные возможности**
-
-- AI-анализ резюме
-- Генерация сопроводительных писем
-- Telegram Bot
-- Парсер вакансий
-- Kanban-доска
-- Docker
-- GitHub Actions
-- PostgreSQL
-
-**Стек**
-
-`Python` • `Flask` • `PostgreSQL` • `SQLAlchemy` • `Docker`
+| Проект | Описание |
+|--------|----------|
+| 🤖 **VacBot** | AI‑платформа для поиска работы, Telegram‑бот, парсер вакансий, Docker, GitHub Actions, PostgreSQL. |
+| 💻 **Portfolio** | Интерактивное терминальное портфолио на React + Vite. |
+| 💰 **Personal Finance Client‑Server** | Клиент‑серверное приложение для учёта личных финансов. |
+| 🍲 **Recipe App** | Backend на Django REST Framework для работы с рецептами. |
 
 ---
 
-### 💻 Portfolio
+# 🛠 Технологии
 
-> Интерактивное портфолио в стиле терминала.
-
-- Терминальный интерфейс
-- Matrix Rain
-- Мини-игра
-- Анимации
-- Адаптивный дизайн
-
-**Стек**
-
-`React` • `Vite` • `Styled Components`
-
----
-
-### 💰 Personal Finance Client-Server
-
-> Клиент-серверное приложение для учёта личных финансов.
-
-- Работа с БД
-- Клиент-серверная архитектура
-- Учёт доходов и расходов
-- SQL
-
----
-
-### 🍲 Recipe App
-
-> Backend-приложение для управления рецептами.
-
-- Django
-- Django REST Framework
-- PostgreSQL
-- REST API
-- CRUD
-
----
-
-## 🛠 Стек
+<div align="center">
 
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,django,flask"/>
-</p>
 
 ### Базы данных
 
-<p>
 <img src="https://skillicons.dev/icons?i=postgres"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" height="48"/>
-</p>
 
 ### DevOps
 
-<p>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions,nginx"/>
-</p>
 
 ### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,vite"/>
-</p>
 
 ### Инструменты
 
-<p>
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,figma"/>
-</p>
+
+</div>
 
 ---
 
-## 🌱 Сейчас изучаю
+# 🌱 Сейчас изучаю
 
-- Linux Administration
+- Linux
 - Docker
 - GitHub Actions
 - CI/CD
@@ -129,21 +69,15 @@
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=zali-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
+# 📊 GitHub
 
 <div align="center">
 
-### 💜 Спасибо, что заглянули!
+<img src="https://streak-stats.demolab.com?user=zali-dev&theme=tokyonight&hide_border=true"/>
 
-> *"Люблю превращать идеи в надёжные backend-решения."*
+</div>
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=zali-dev&style=flat-square&color=7C3AED"/>
 

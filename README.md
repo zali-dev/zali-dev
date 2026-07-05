@@ -1,7 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Привет%2C+я+Залина+%F0%9F%91%8B;Backend-разработчик;Python+%E2%80%A2+Django+%E2%80%A2+PostgreSQL;Изучаю+Linux%2C+Docker+и+DevOps;Люблю+создавать+надёжные+backend-сервисы" />
-</p>
+<div align="center">
 
+# 👋 Привет, я Залина
+
+### Backend-разработчик • Python • Django • PostgreSQL
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Разрабатываю+REST+API;Проектирую+базы+данных;Изучаю+Linux+и+Docker;Интересуюсь+DevOps;Всегда+учусь+новому"/>
+
+</div>
 ---
 
 # 👩‍💻 Обо мне

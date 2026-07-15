@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:7C3AED,50:8B5CF6,100:A855F7&text=Zalina&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%7C%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E%20%D0%B8%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B5%20backend-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:1E90FF,50:4169E1,100:0000CD&text=Zalina&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%7C%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D1%83%D1%8E%20%D0%B8%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%8E%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B5%20backend-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F&descAlignY=60&descSize=18"/>
 
 </div>
 
@@ -98,5 +98,5 @@
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=160&section=footer&color=0:7C3AED,50:8B5CF6,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=160&section=footer&color=0:1E90FF,50:4169E1,100:0000CD"/>
 </p>

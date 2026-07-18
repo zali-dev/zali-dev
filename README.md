@@ -77,12 +77,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zali-dev&theme=tokyonight"/>
 </p>
 
-## 🐍 Активность
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zali-dev/zali-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ## 📫 Контакты
 
 <p align="center">
